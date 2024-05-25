@@ -1,21 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista de Procesos"
+    name="Vista de Proceso 1"
     id="id-5cc8853a922f47d993626d9c5f43c727"
     viewpoint="service_realization">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-56c6195a8b32413b85de71cd16611894">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-d3faaea4a985440dac9a0c3130655a6f"
-        source="id-56c6195a8b32413b85de71cd16611894"
-        target="id-51c56bf439024179805d81cd1146cfce">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-424b542cf3bb4008a4e087aee968fc53.xml#id-424b542cf3bb4008a4e087aee968fc53"/>
-    </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ac63a43d5d6245aa89e3c61336ad06cd"
@@ -499,18 +490,5 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-a05679db58434d21b48dfca925a2a6ba.xml#id-a05679db58434d21b48dfca925a2a6ba"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-51c56bf439024179805d81cd1146cfce"
-      targetConnections="id-d3faaea4a985440dac9a0c3130655a6f">
-    <bounds
-        x="516"
-        y="24"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessService"
-        href="BusinessService_id-2055aef4329241c09c4b367e67b66f3b.xml#id-2055aef4329241c09c4b367e67b66f3b"/>
   </children>
 </archimate:ArchimateDiagramModel>
