@@ -95,16 +95,4 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-5aa97df00ea74c4893ff60ffb284bb6c.xml#id-5aa97df00ea74c4893ff60ffb284bb6c"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-de999a8fae4142da83d53cb16c9f7c74">
-    <bounds
-        x="564"
-        y="264"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationService"
-        href="ApplicationService_id-d02119e1780e4074ad9ef767cf714302.xml#id-d02119e1780e4074ad9ef767cf714302"/>
-  </children>
 </archimate:ArchimateDiagramModel>
