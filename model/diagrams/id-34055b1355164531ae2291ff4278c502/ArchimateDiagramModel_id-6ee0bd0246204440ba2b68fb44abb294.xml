@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista Cooperación"
+    name="Vista Comportamiento"
     id="id-6ee0bd0246204440ba2b68fb44abb294">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -30,15 +30,6 @@
       id="id-90e02f7d91f44f56a3480d73fe4503b7">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-2dbf68c55772476bbcb70ca37936b884"
-        source="id-90e02f7d91f44f56a3480d73fe4503b7"
-        target="id-6d176e9ebf27467ab05b2a16a658a0c9">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-192e757a96ac4ba2ac3c58d698baa125.xml#id-192e757a96ac4ba2ac3c58d698baa125"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-e2c20dd1bdbe4593888d59787155021a"
         source="id-90e02f7d91f44f56a3480d73fe4503b7"
         target="id-50a693c4b093422ea7d796e7e1103906">
@@ -49,6 +40,15 @@
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-109b2588774e4116adbdd1bea316111f.xml#id-109b2588774e4116adbdd1bea316111f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2dbf68c55772476bbcb70ca37936b884"
+        source="id-90e02f7d91f44f56a3480d73fe4503b7"
+        target="id-6d176e9ebf27467ab05b2a16a658a0c9">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-192e757a96ac4ba2ac3c58d698baa125.xml#id-192e757a96ac4ba2ac3c58d698baa125"/>
     </sourceConnections>
     <bounds
         x="192"
