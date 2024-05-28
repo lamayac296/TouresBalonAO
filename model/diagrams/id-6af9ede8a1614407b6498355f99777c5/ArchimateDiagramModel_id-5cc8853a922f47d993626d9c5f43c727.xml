@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Vista de Proceso 1"
+    name="Vista de Negocio"
     id="id-5cc8853a922f47d993626d9c5f43c727"
     viewpoint="service_realization">
   <children
