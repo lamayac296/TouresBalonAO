@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brecha-app-04"
+    id="id-0af3b05b8d194df493ff1a798913f17d"
+    documentation="Nuevo Modulo encargado de la gestion de consulta y solicitud de hospedaje, se descentraliza la funcionalidad de la aplicación de espectaculos y se crea el modulo encargado de conectarse a los sitemas externos de forma automatica mediante APIs."/>

@@ -1,0 +1,5 @@
+<archimate:Gap
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Brecha-app-06"
+    id="id-449c57429c0f40c49212351311f983e2"
+    documentation="Nuevo modulo de pago en linea encargado de conectarse a una pasarela de pagos,  realizar el cobro de forma electornica y control de contabilidad del nuevo modelo."/>
